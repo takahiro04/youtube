@@ -1,8 +1,6 @@
 #EXTM3U 
 
-#PLAYLIST: Live
-
-#EXTINF:-1 group-title="VTV",Lofi hip hop radio - beats to relax/study-Lofi Girl
+#EXTINF:-1 ,Lofi hip hop radio - beats to relax/study-Lofi Girl
 https://youtu.be/5qap5aO4i9A
 
 #EXTINF:-1 ,Japanese Lofi Radio 24/7-lofi geek
@@ -61,8 +59,6 @@ https://youtu.be/QBjYQhhmzO8
 
 #EXTINF:-1 ,Radio Hits Mix [ 24 / 7 Live ] Best of Upbeat Songs 2021 | Listen to Happy World Hits
 https://youtu.be/0DaxYBXmmik
-
-#PLAYLIST: Liveto
 
 #EXTINF:-1 ,Seoul live lofi
 https://youtu.be/SmCa3GMVNIM
